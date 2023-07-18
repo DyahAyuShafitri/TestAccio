@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Policies</name>
+   <tag></tag>
+   <elementGuidId>4c697f4b-29bc-4351-b252-7e224c12fc9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:R5lim:']/div/nav/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fb21691e-e42b-490d-9c40-f2d2a8532c0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/auth/iam/policies</value>
+      <webElementGuid>9740bf1f-ab87-4dcf-9164-ce3118c4308c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center space-x-2 text-sm hover:bg-neutral-50 px-4 py-4</value>
+      <webElementGuid>36071326-dd8a-4fa1-a734-e133b38d5758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Policies</value>
+      <webElementGuid>203984b0-1c04-4125-878d-d804a3c74ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:R5lim:&quot;)/div[@class=&quot;pb-4 pt-0&quot;]/nav[@class=&quot;flex space-x-2 lg:flex-col lg:space-x-0&quot;]/div[2]/a[@class=&quot;flex items-center space-x-2 text-sm hover:bg-neutral-50 px-4 py-4&quot;]</value>
+      <webElementGuid>b06d8efd-2a80-4578-b4aa-8d6fc7f92cc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:R5lim:']/div/nav/div[2]/a</value>
+      <webElementGuid>e0cfa30d-2545-49b6-b245-779f8e006907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::a[1]</value>
+      <webElementGuid>00f52b25-98c1-415e-9157-8d1331bc7cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IAM'])[1]/following::a[2]</value>
+      <webElementGuid>cd4314c5-9583-4afc-a9a6-770eeb7e9a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[1]/preceding::a[1]</value>
+      <webElementGuid>fa6a5bc0-530a-407d-b6f5-126ee3fe96fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/auth/iam/policies')]</value>
+      <webElementGuid>41e9406a-2835-4efa-a789-0ac821eb5bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>1008a318-deaf-41a0-ae90-7a2dda03af31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/auth/iam/policies' and (text() = 'Policies' or . = 'Policies')]</value>
+      <webElementGuid>58dce01a-bb7b-472a-b6f4-ebc90f9dc97d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

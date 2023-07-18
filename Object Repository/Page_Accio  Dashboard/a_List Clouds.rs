@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_List Clouds</name>
+   <tag></tag>
+   <elementGuidId>a83efe1d-4d23-4d53-8ff4-3d268e226fe7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:R65im:']/div/nav/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7b630c66-a7d6-417f-baa8-87f3a11528a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/orchestration</value>
+      <webElementGuid>b361f095-1449-424b-9942-e120496d6072</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center space-x-2 text-sm hover:bg-neutral-50 px-4 py-4</value>
+      <webElementGuid>418de856-2d14-486b-8000-53bf42c09d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>List Clouds</value>
+      <webElementGuid>89fedacd-301b-4279-b07e-6482dc0abd5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:R65im:&quot;)/div[@class=&quot;pb-4 pt-0&quot;]/nav[@class=&quot;flex space-x-2 lg:flex-col lg:space-x-0&quot;]/div[1]/a[@class=&quot;flex items-center space-x-2 text-sm hover:bg-neutral-50 px-4 py-4&quot;]</value>
+      <webElementGuid>c1d93247-2f27-4b73-841c-b04c3525c0c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:R65im:']/div/nav/div/a</value>
+      <webElementGuid>6443bf4d-e539-4afd-b718-04206e08b056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cloud Orchestration'])[1]/following::a[1]</value>
+      <webElementGuid>8f1ef859-1012-4104-96fc-65cf0cc1acc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[1]/following::a[1]</value>
+      <webElementGuid>a8a435f1-972c-43e7-81c8-f622bd01e736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[2]/preceding::a[1]</value>
+      <webElementGuid>b2303875-1754-44af-9e63-c69658b1ce45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/orchestration')]</value>
+      <webElementGuid>42681a74-669b-4a2e-87dc-d18644b45f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/nav/div/a</value>
+      <webElementGuid>a4935a1d-5f03-4fda-8925-362a2a3861aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/orchestration' and (text() = 'List Clouds' or . = 'List Clouds')]</value>
+      <webElementGuid>b34fbe5b-d9a8-4c77-a3a7-fa7a6797aead</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Users</name>
+   <tag></tag>
+   <elementGuidId>53f5125c-7bd3-43eb-bf35-3d22852d9893</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:R5lim:']/div/nav/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9f9f6e83-e002-4967-ae57-5c305f2590cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/auth//iam/users</value>
+      <webElementGuid>456db02a-895a-49ed-84c5-7df73164b90b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center space-x-2 text-sm hover:bg-neutral-50 px-4 py-4</value>
+      <webElementGuid>e1586915-304f-450c-9017-5a7132946d38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Users</value>
+      <webElementGuid>434222f8-1082-4c8c-91ce-226f596ed4e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:R5lim:&quot;)/div[@class=&quot;pb-4 pt-0&quot;]/nav[@class=&quot;flex space-x-2 lg:flex-col lg:space-x-0&quot;]/div[1]/a[@class=&quot;flex items-center space-x-2 text-sm hover:bg-neutral-50 px-4 py-4&quot;]</value>
+      <webElementGuid>908b5f61-859f-4dd3-ad08-e3dd039afaf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:R5lim:']/div/nav/div/a</value>
+      <webElementGuid>863adadf-a4e2-449b-8f38-6290f50bdb79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IAM'])[1]/following::a[1]</value>
+      <webElementGuid>5532ea8d-6801-47c7-a62d-4ca2e011907a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Contract'])[1]/following::a[1]</value>
+      <webElementGuid>fce39cc0-cff3-4ce3-8d73-4c3f084f03a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Policies'])[1]/preceding::a[1]</value>
+      <webElementGuid>d6de7b07-a173-480b-8491-9c14fd8bdd57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/auth//iam/users')]</value>
+      <webElementGuid>ad7ae527-7d77-40a6-84e9-6aec3e1926bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/nav/div/a</value>
+      <webElementGuid>fed4a914-6f8e-49ef-abfa-851a39303987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/auth//iam/users' and (text() = 'Users' or . = 'Users')]</value>
+      <webElementGuid>ed92c887-5cc3-4e5d-bff3-bba8e63cea8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

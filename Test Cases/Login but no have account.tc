@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login but no have account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ff3a39a-ef7e-4683-bb99-7eadbd7a30ad</testCaseGuid>
+</TestCaseEntity>

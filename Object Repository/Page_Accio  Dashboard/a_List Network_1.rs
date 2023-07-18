@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_List Network_1</name>
+   <tag></tag>
+   <elementGuidId>325ce997-a7fc-4197-9a51-e803dc1f4906</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:R55im:']/div/nav/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a91346b4-3852-4ae0-a7ac-87500d758450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ethereum</value>
+      <webElementGuid>d6ad51d0-4516-4df6-8122-d5cf2365ab15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center space-x-2 text-sm hover:bg-neutral-50 px-4 py-4</value>
+      <webElementGuid>7c2ed334-878e-4a24-a721-4f806eef2820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>List Network</value>
+      <webElementGuid>0fed911d-3015-4d97-9f97-5b65cebca090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:R55im:&quot;)/div[@class=&quot;pb-4 pt-0&quot;]/nav[@class=&quot;flex space-x-2 lg:flex-col lg:space-x-0&quot;]/div[1]/a[@class=&quot;flex items-center space-x-2 text-sm hover:bg-neutral-50 px-4 py-4&quot;]</value>
+      <webElementGuid>af8b6324-769a-4e32-a95d-f9773f7ae043</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:R55im:']/div/nav/div/a</value>
+      <webElementGuid>8ac213ad-57d9-4e91-80c7-c2e8fb103f43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ethereum Network'])[1]/following::a[1]</value>
+      <webElementGuid>9b08ce20-bece-43e4-bcd5-4c462bf166a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fabric Chaincode'])[1]/following::a[1]</value>
+      <webElementGuid>54011b61-69a6-4c47-8c59-0ad5e3307a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Contract'])[1]/preceding::a[1]</value>
+      <webElementGuid>381fb1e3-abc4-4f9b-aa54-b2d877d85535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ethereum')]</value>
+      <webElementGuid>3f2c9af9-41cd-46b5-b436-74260e84d124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/nav/div/a</value>
+      <webElementGuid>74d4e49b-5ff2-4616-8056-518c42fd3d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ethereum' and (text() = 'List Network' or . = 'List Network')]</value>
+      <webElementGuid>1f0fcb6c-29fd-448a-9cf2-02a5099c82a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

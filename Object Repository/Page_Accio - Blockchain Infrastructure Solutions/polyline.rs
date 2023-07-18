@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>polyline</name>
+   <tag></tag>
+   <elementGuidId>5365b3ad-b838-4246-9a60-80b72b9b085e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>polyline</value>
+      <webElementGuid>014ae35a-7415-4520-9da2-d7d0dedcacc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>points</name>
+      <type>Main</type>
+      <value>6 9 12 15 18 9</value>
+      <webElementGuid>1921d8f9-89d0-4d09-878b-90ae2fcfd5a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-tabs-tab-:r7:&quot;)/div[@class=&quot;flex justify-between px-5 py-3 w-full bg-white border-b&quot;]/div[2]/svg[1]/polyline[1]</value>
+      <webElementGuid>757d7a25-d0b4-4f21-8794-17c498418d99</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

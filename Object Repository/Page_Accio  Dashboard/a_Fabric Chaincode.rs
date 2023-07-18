@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fabric Chaincode</name>
+   <tag></tag>
+   <elementGuidId>41f43049-2e1a-444c-b814-8f8b7827405a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:R4lim:']/div/nav/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>465560c0-536c-44f7-8ae1-50a258c9ba65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/smartcontract/fab</value>
+      <webElementGuid>1a183d3d-9360-4ff5-a822-dbf3e930a819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center space-x-2 text-sm hover:bg-neutral-50 px-4 py-4</value>
+      <webElementGuid>e348445d-5622-40cb-b3d9-35222d56148c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fabric Chaincode</value>
+      <webElementGuid>bade4be0-9694-4937-95dc-db6632f0596a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:R4lim:&quot;)/div[@class=&quot;pb-4 pt-0&quot;]/nav[@class=&quot;flex space-x-2 lg:flex-col lg:space-x-0&quot;]/div[2]/a[@class=&quot;flex items-center space-x-2 text-sm hover:bg-neutral-50 px-4 py-4&quot;]</value>
+      <webElementGuid>bbef07aa-103a-4124-a00d-fce145960224</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:R4lim:']/div/nav/div[2]/a</value>
+      <webElementGuid>1986de8d-7cf0-4cd3-80bf-9203faba7b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Network'])[1]/following::a[1]</value>
+      <webElementGuid>20b5eff4-c3a0-453d-bc63-cd0b8e6c3a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hyperledger Fabric'])[1]/following::a[2]</value>
+      <webElementGuid>4571b356-82eb-4efd-98ba-05ddadf35e5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ethereum Network'])[1]/preceding::a[1]</value>
+      <webElementGuid>d8774cc1-a2ce-4584-8481-1a7c1342c293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/smartcontract/fab')]</value>
+      <webElementGuid>72684d21-c249-4310-9e93-6ff5c16fb2ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>04bef037-432f-4fc5-890d-ee5350104123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/smartcontract/fab' and (text() = 'Fabric Chaincode' or . = 'Fabric Chaincode')]</value>
+      <webElementGuid>a048cade-eba2-413a-b2a4-664685c874c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

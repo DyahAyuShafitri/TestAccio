@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Simple and Intuitive User Interface</name>
+   <tag></tag>
+   <elementGuidId>84d25265-c52e-44d2-9486-3d6d2fb18b30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='headlessui-tabs-tab-:r3:']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>08d4ef05-d114-45d0-9adb-247ad4f10789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between px-5 py-3 w-full bg-white border-b </value>
+      <webElementGuid>35883011-6a0d-4409-92f8-0b72024b24cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simple and Intuitive User Interface</value>
+      <webElementGuid>579cb5b4-c014-4905-a7fa-c8e7458be18d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-tabs-tab-:r3:&quot;)/div[@class=&quot;flex justify-between px-5 py-3 w-full bg-white border-b&quot;]</value>
+      <webElementGuid>49bdb655-8d2a-4b24-b8ea-d3686d327fce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='headlessui-tabs-tab-:r3:']/div</value>
+      <webElementGuid>2d8ab97a-acbc-4bba-90fd-f70018288365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automated Network Setup'])[1]/following::div[4]</value>
+      <webElementGuid>c24fe7a9-2aee-4c8f-83dc-c9d745c9b072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is Accio?'])[1]/following::div[10]</value>
+      <webElementGuid>18f54116-de11-4a37-b185-184210a9db8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RESTful API'])[1]/preceding::div[4]</value>
+      <webElementGuid>3e15c377-1843-460c-bbfe-19e3072ec774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/div</value>
+      <webElementGuid>c64a0db3-bcc1-4e32-9785-8a239c5d2ccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Simple and Intuitive User Interface' or . = 'Simple and Intuitive User Interface')]</value>
+      <webElementGuid>6aed5726-e520-49fb-8204-6a71d45cfbbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

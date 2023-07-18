@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_Free TrialYou are currently on a free _4c15b8</name>
+   <tag></tag>
+   <elementGuidId>6b667e95-e4a3-49a4-ab92-0ffaa4e991b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>main.p-10.min-h-screen.w-full</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/section/main</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>ab194e7a-f04c-449e-b392-0bf14bea4801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-10 min-h-screen w-full</value>
+      <webElementGuid>a1ea7ef8-dd23-424c-949d-dc1bf8e9d802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Free TrialYou are currently on a free trial. Your trial will expire on Friday, 18 August 2023, 05:07 PMUpgrade NowConsoleWelcome to ACCIO! Experience the seamless power of blockchain with ACCIO and unleash the potential of decentralized innovation.Explore, build, and manage your blockchain networks with ease. Let's embark on a transformative journey together!Create Hyperledger Fabric NetworkCreate Ethereum Network</value>
+      <webElementGuid>6a29778a-aa7c-4752-93ee-32c127873ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;app&quot;]/section[@class=&quot;min-h-0 bg-neutral-100 lg:flex lg:flex-col&quot;]/section[@class=&quot;min-h-0 bg-neutral-100 lg:flex lg:flex-row&quot;]/main[@class=&quot;p-10 min-h-screen w-full&quot;]</value>
+      <webElementGuid>62adb0d9-db18-4f7b-9356-35604564d4b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/section/main</value>
+      <webElementGuid>d5ea150e-e653-4495-88e4-a82be276732e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Clouds'])[1]/following::main[1]</value>
+      <webElementGuid>57bac0a0-358e-44bf-8e75-40a796db4fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cloud Orchestration'])[1]/following::main[1]</value>
+      <webElementGuid>15bfd20f-12f2-4be5-a4b4-24c2fa3404cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/main</value>
+      <webElementGuid>09453a06-342c-4357-b088-41e9f85e9b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = concat(&quot;Free TrialYou are currently on a free trial. Your trial will expire on Friday, 18 August 2023, 05:07 PMUpgrade NowConsoleWelcome to ACCIO! Experience the seamless power of blockchain with ACCIO and unleash the potential of decentralized innovation.Explore, build, and manage your blockchain networks with ease. Let&quot; , &quot;'&quot; , &quot;s embark on a transformative journey together!Create Hyperledger Fabric NetworkCreate Ethereum Network&quot;) or . = concat(&quot;Free TrialYou are currently on a free trial. Your trial will expire on Friday, 18 August 2023, 05:07 PMUpgrade NowConsoleWelcome to ACCIO! Experience the seamless power of blockchain with ACCIO and unleash the potential of decentralized innovation.Explore, build, and manage your blockchain networks with ease. Let&quot; , &quot;'&quot; , &quot;s embark on a transformative journey together!Create Hyperledger Fabric NetworkCreate Ethereum Network&quot;))]</value>
+      <webElementGuid>05496c6a-a09d-41d8-9189-6b4a114aad88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

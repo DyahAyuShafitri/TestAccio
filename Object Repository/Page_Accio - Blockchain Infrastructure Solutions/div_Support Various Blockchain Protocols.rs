@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Support Various Blockchain Protocols</name>
+   <tag></tag>
+   <elementGuidId>798d2daa-e197-43ec-94d6-811532fbee07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='headlessui-tabs-tab-:r6:']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d2f521d2-52c4-4573-b3de-af8ff909d8b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between px-5 py-3 w-full bg-white border-b </value>
+      <webElementGuid>2e8e9bbb-ed41-4b6b-aafe-acb32fb1b954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Support Various Blockchain Protocols</value>
+      <webElementGuid>5da1dbf2-451d-49bf-87b8-596292a97db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-tabs-tab-:r6:&quot;)/div[@class=&quot;flex justify-between px-5 py-3 w-full bg-white border-b&quot;]</value>
+      <webElementGuid>e3f1956e-0f90-4e23-b96b-e584d96d5345</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='headlessui-tabs-tab-:r6:']/div</value>
+      <webElementGuid>0dea5ae5-8ccd-4d9c-9964-e8ee5693a36a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deployment Options on Your Choice'])[1]/following::div[4]</value>
+      <webElementGuid>44f36c83-4fd5-4039-b6f1-99abd585fad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RESTful API'])[1]/following::div[9]</value>
+      <webElementGuid>67d9b73a-64bb-4fe4-a61a-1d533ab10eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scalable Off-chain Data Storage'])[1]/preceding::div[4]</value>
+      <webElementGuid>2c0f0426-9de2-4c92-9f60-1c9f61a7e11c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/div</value>
+      <webElementGuid>b9531430-fa9f-4e23-8578-45e1b2f3e201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Support Various Blockchain Protocols' or . = 'Support Various Blockchain Protocols')]</value>
+      <webElementGuid>cef43695-67bb-4645-a550-185aa2e69f8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
